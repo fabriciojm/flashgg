@@ -1,20 +1,30 @@
-void diPho_comp(string variable = "pt") {                                         
-                                                                                
+void diPho_comp(string variable = "pt", bool normalization = true) {                                         
+
+// A program for comparing the old and new samples for a variable, separated in
+// EE and EB histograms for fake and prompt.
+//
+cout << "This program compares the variable " + variable + " for old and new\
+ samples" << endl;
+
+
 const char *vari = variable.c_str();                                            
                                                                                 
-TFile *file2040 = new TFile("/afs/cern.ch/user/f/fabricio/CMSSW_7_6_3_patch2/src/diPhoton/20-40/output_numEvent10000.root");
+TFile *file2040 = new TFile("/afs/cern.ch/user/f/fabricio/CMSSW_7_6_3_patch2/\
+src/diPhoton/20-40/output_numEvent40000.root");
 TTree *fakeEB2040 = (TTree*)file2040->Get("photonViewDumper/trees/fakePhotonsEB");
 TTree *fakeEE2040 = (TTree*)file2040->Get("photonViewDumper/trees/fakePhotonsEE");
 TTree *promptEB2040 = (TTree*)file2040->Get("photonViewDumper/trees/promptPhotonsEB");
 TTree *promptEE2040 = (TTree*)file2040->Get("photonViewDumper/trees/promptPhotonsEE");
                                                                                 
-TFile *file4080 = new TFile("/afs/cern.ch/user/f/fabricio/CMSSW_7_6_3_patch2/src/diPhoton/40-80/output_numEvent10000.root");
+TFile *file4080 = new TFile("/afs/cern.ch/user/f/fabricio/CMSSW_7_6_3_patch2/\
+src/diPhoton/40-80/output_numEvent40000.root");
 TTree *fakeEB4080 = (TTree*)file4080->Get("photonViewDumper/trees/fakePhotonsEB");
 TTree *fakeEE4080 = (TTree*)file4080->Get("photonViewDumper/trees/fakePhotonsEE");
 TTree *promptEB4080 = (TTree*)file4080->Get("photonViewDumper/trees/promptPhotonsEB");
 TTree *promptEE4080 = (TTree*)file4080->Get("photonViewDumper/trees/promptPhotonsEE");
                                                                                 
-TFile *file40Inf = new TFile("/afs/cern.ch/user/f/fabricio/CMSSW_7_6_3_patch2/src/diPhoton/40-Inf/output_numEvent10000.root");
+TFile *file40Inf = new TFile("/afs/cern.ch/user/f/fabricio/CMSSW_7_6_3_patch2/\
+src/diPhoton/40-Inf/output_numEvent40000.root");
 TTree *fakeEB40Inf = (TTree*)file40Inf->Get("photonViewDumper/trees/fakePhotonsEB");
 TTree *fakeEE40Inf = (TTree*)file40Inf->Get("photonViewDumper/trees/fakePhotonsEE");
 TTree *promptEB40Inf = (TTree*)file40Inf->Get("photonViewDumper/trees/promptPhotonsEB");
@@ -105,8 +115,13 @@ Double_t min_EB = fakeEB2040->GetMinimum(vari);
 henergy_fEB2040->Add(henergy_fEB40Inf);                                             
 henergy_fEB4080->Add(henergy_fEB2040);                                              
                                                                                 
-Double_t norm = henergy_fEB2040->GetEntries();                                    
-henergy_fEB2040->Scale(1/norm);                                                   
+//if (normalization == true) {
+//cout << "The value of normalization is " << normalization << ".\n";}
+
+Double_t norm = henergy_fEB2040->GetEntries();
+if (normalization == true) {
+  henergy_fEB2040->Scale(1/norm);
+  }
                                                                                 
 // Set canvas and draw; update                                                  
 TCanvas *c1 = new TCanvas("c1","c1",1000,600);                                  
@@ -117,9 +132,11 @@ gStyle->SetOptStat(0);
                                                                                 
 c1->Update();                                                                   
                                                                                 
-norm = henergy_fEB4080->GetEntries();                                             
-henergy_fEB4080->Scale(1/norm);                                                   
-                                                                                
+if (normalization == true) {
+  norm = henergy_fEB4080->GetEntries();                                             
+  henergy_fEB4080->Scale(1/norm);                                                   
+  }
+
 // Draw, set title (?) and update                                               
 henergy_fEB4080->SetLineColor(kRed);                                              
 henergy_fEB4080->SetTitle("box1;x;y");                                            
@@ -133,8 +150,8 @@ c1->Update();
 // Legend                                                                       
 leg1 = new TLegend(0.6,0.7,0.9,0.9);                                           
 leg1->SetHeader("GJet bin");                                                    
-leg1->AddEntry(henergy_fEB4080,"pt20-40 + pt40-Inf","l");              
-leg1->AddEntry(henergy_fEB2040,"40-80 + pt20-40 + pt40-Inf","l");           
+leg1->AddEntry(henergy_fEB2040,"pt20-40 + pt40-Inf","l");              
+leg1->AddEntry(henergy_fEB4080,"40-80 + pt20-40 + pt40-Inf","l");           
 leg1->Draw();                                                                   
 
 
@@ -225,9 +242,11 @@ Double_t min_EE = fakeEE2040->GetMinimum(vari);
 henergy_fEE2040->Add(henergy_fEE40Inf);                                             
 henergy_fEE4080->Add(henergy_fEE2040);                                              
                                                                                 
-norm = henergy_fEE2040->GetEntries();                                    
-henergy_fEE2040->Scale(1/norm);                                                   
-                                                                                
+if (normalization == true) {
+  norm = henergy_fEE2040->GetEntries();                                    
+  henergy_fEE2040->Scale(1/norm);                                                   
+  }
+
 // Set canvas and draw; update                                                  
 c1->cd(2);                                                                      
 henergy_fEE2040->Draw();                                                          
@@ -235,9 +254,11 @@ gStyle->SetOptStat(0);
                                                                                 
 c1->Update();                                                                   
                                                                                 
-norm = henergy_fEE4080->GetEntries();                                             
-henergy_fEE4080->Scale(1/norm);                                                   
-                                                                                
+if (normalization == true) {
+  norm = henergy_fEE4080->GetEntries();                                             
+  henergy_fEE4080->Scale(1/norm);                                                   
+  }
+
 // Draw, set title (?) and update                                               
 henergy_fEE4080->SetLineColor(kRed);                                              
 henergy_fEE4080->SetTitle("box1;x;y");                                            
@@ -251,8 +272,8 @@ c1->Update();
 // Legend                                                                       
 leg2 = new TLegend(0.6,0.7,0.9,0.9);                                           
 leg2->SetHeader("GJet bin");                                                    
-leg2->AddEntry(henergy_fEE4080,"pt20-40 + pt40-Inf","l");              
-leg2->AddEntry(henergy_fEE2040,"40-80 + pt20-40 + pt40-Inf","l");           
+leg2->AddEntry(henergy_fEE2040,"pt20-40 + pt40-Inf","l");              
+leg2->AddEntry(henergy_fEE4080,"40-80 + pt20-40 + pt40-Inf","l");           
 leg2->Draw();                                                                   
 
 
@@ -350,18 +371,22 @@ b_energy_pEB40Inf->SetAddress(&energy_pEB40Inf);
 henergy_pEB2040->Add(henergy_pEB40Inf);                                             
 henergy_pEB4080->Add(henergy_pEB2040);                                              
                                                                                 
-norm = henergy_pEB2040->GetEntries();                                             
-henergy_pEB2040->Scale(1/norm);                                                   
-                                                                                
+if (normalization == true) {
+  norm = henergy_pEB2040->GetEntries();                                             
+  henergy_pEB2040->Scale(1/norm);                                                   
+  }
+
 // Set canvas and draw; update                                                  
 henergy_pEB2040->Draw();                                                          
 gStyle->SetOptStat(0);                                                          
                                                                                 
 c1->Update();                                                                   
                                                                                 
-norm = henergy_pEB4080->GetEntries();                                             
-henergy_pEB4080->Scale(1/norm);                                                   
-                                                                                
+if (normalization == true) {
+  norm = henergy_pEB4080->GetEntries();                                             
+  henergy_pEB4080->Scale(1/norm);                                                   
+  }
+
 // Draw, set title (?) and update                                               
 henergy_pEB4080->SetLineColor(kRed);                                              
 henergy_pEB4080->SetTitle("box1;x;y");                                            
@@ -375,8 +400,8 @@ c1->Update();
 // Legend                                                                       
 leg3 = new TLegend(0.6,0.7,0.9,0.9);                                           
 leg3->SetHeader("GJet bin");                                                    
-leg3->AddEntry(henergy_pEB4080,"pt20-40 + pt40-Inf","l");              
-leg3->AddEntry(henergy_pEB2040,"40-80 + pt20-40 + pt40-Inf","l");           
+leg3->AddEntry(henergy_pEB2040,"pt20-40 + pt40-Inf","l");              
+leg3->AddEntry(henergy_pEB4080,"40-80 + pt20-40 + pt40-Inf","l");           
 leg3->Draw();                                                                   
                                                                                 
 
@@ -466,18 +491,22 @@ b_energy_pEE40Inf->SetAddress(&energy_pEE40Inf);
 henergy_pEE2040->Add(henergy_pEE40Inf);                                             
 henergy_pEE4080->Add(henergy_pEE2040);                                              
                                                                                 
-norm = henergy_pEE2040->GetEntries();                                             
-henergy_pEE2040->Scale(1/norm);                                                   
-                                                                                
+if (normalization == true) {
+  norm = henergy_pEE2040->GetEntries();                                             
+  henergy_pEE2040->Scale(1/norm);                                                   
+  }                                                                              
+
 // Set canvas and draw; update                                                  
 henergy_pEE2040->Draw();                                                          
 gStyle->SetOptStat(0);                                                          
                                                                                 
 c1->Update();                                                                   
                                                                                 
-norm = henergy_pEE4080->GetEntries();                                             
-henergy_pEE4080->Scale(1/norm);                                                   
-                                                                                
+if (normalization == true) {
+  norm = henergy_pEE4080->GetEntries();                                             
+  henergy_pEE4080->Scale(1/norm);                                                   
+  }
+
 // Draw, set title (?) and update                                               
 henergy_pEE4080->SetLineColor(kRed);                                              
 henergy_pEE4080->SetTitle("box1;x;y");                                            
@@ -491,8 +520,8 @@ c1->Update();
 // Legend                                                                       
 leg4 = new TLegend(0.6,0.7,0.9,0.9);                                           
 leg4->SetHeader("GJet bin");                                                    
-leg4->AddEntry(henergy_pEE4080,"pt20-40 + pt40-Inf","l");              
-leg4->AddEntry(henergy_pEE2040,"40-80 + pt20-40 + pt40-Inf","l");           
+leg4->AddEntry(henergy_pEE2040,"pt20-40 + pt40-Inf","l");              
+leg4->AddEntry(henergy_pEE4080,"40-80 + pt20-40 + pt40-Inf","l");           
 leg4->Draw();                                                                   
 
 if (gROOT->IsBatch()) return;                                                   
