@@ -9,22 +9,25 @@ cout << "This program compares the variable " + variable + " for old and new\
 
 const char *vari = variable.c_str();                                            
                                                                                 
-TFile *file2040 = new TFile("/afs/cern.ch/user/f/fabricio/CMSSW_7_6_3_patch2/\
+//TFile *file2040 = new TFile("/afs/cern.ch/user/f/fabricio/CMSSW_7_6_3_patch2/\
 src/diPhoton/20-40/output_numEvent40000.root");
+TFile *file2040 = new TFile("/afs/cern.ch/user/f/fabricio/CMSSW_7_6_3_patch2/src/output_GJet_mgg80Inf_pt2040.root");
 TTree *fakeEB2040 = (TTree*)file2040->Get("photonViewDumper/trees/fakePhotonsEB");
 TTree *fakeEE2040 = (TTree*)file2040->Get("photonViewDumper/trees/fakePhotonsEE");
 TTree *promptEB2040 = (TTree*)file2040->Get("photonViewDumper/trees/promptPhotonsEB");
 TTree *promptEE2040 = (TTree*)file2040->Get("photonViewDumper/trees/promptPhotonsEE");
                                                                                 
-TFile *file4080 = new TFile("/afs/cern.ch/user/f/fabricio/CMSSW_7_6_3_patch2/\
+//TFile *file4080 = new TFile("/afs/cern.ch/user/f/fabricio/CMSSW_7_6_3_patch2/\
 src/diPhoton/40-80/output_numEvent40000.root");
+TFile *file4080 = new TFile("/afs/cern.ch/user/f/fabricio/CMSSW_7_6_3_patch2/src/output_GJet_mgg4080.root");
 TTree *fakeEB4080 = (TTree*)file4080->Get("photonViewDumper/trees/fakePhotonsEB");
 TTree *fakeEE4080 = (TTree*)file4080->Get("photonViewDumper/trees/fakePhotonsEE");
 TTree *promptEB4080 = (TTree*)file4080->Get("photonViewDumper/trees/promptPhotonsEB");
 TTree *promptEE4080 = (TTree*)file4080->Get("photonViewDumper/trees/promptPhotonsEE");
                                                                                 
-TFile *file40Inf = new TFile("/afs/cern.ch/user/f/fabricio/CMSSW_7_6_3_patch2/\
+//TFile *file40Inf = new TFile("/afs/cern.ch/user/f/fabricio/CMSSW_7_6_3_patch2/\
 src/diPhoton/40-Inf/output_numEvent40000.root");
+TFile *file40Inf = new TFile("/afs/cern.ch/user/f/fabricio/CMSSW_7_6_3_patch2/src/output_GJet_mgg8OInf_Pt40Inf");
 TTree *fakeEB40Inf = (TTree*)file40Inf->Get("photonViewDumper/trees/fakePhotonsEB");
 TTree *fakeEE40Inf = (TTree*)file40Inf->Get("photonViewDumper/trees/fakePhotonsEE");
 TTree *promptEB40Inf = (TTree*)file40Inf->Get("photonViewDumper/trees/promptPhotonsEB");
@@ -34,6 +37,7 @@ TTree *promptEE40Inf = (TTree*)file40Inf->Get("photonViewDumper/trees/promptPhot
 // Fake photons (EB)                                                                 
 //----------------------------------------------                                
                                                                                 
+//const char *vari = variable.c_str();                                            
 title_str = variable + " (fake) in EB";                                               
 const char *title = title_str.c_str();                                          
                                                                                 
@@ -115,23 +119,26 @@ Double_t min_EB = fakeEB2040->GetMinimum(vari);
 henergy_fEB2040->Add(henergy_fEB40Inf);                                             
 henergy_fEB4080->Add(henergy_fEB2040);                                              
                                                                                 
-//if (normalization == true) {
-//cout << "The value of normalization is " << normalization << ".\n";}
+// Set canvas and draw; update                                                  
+//TCanvas *c1 = new TCanvas("c1","c1",1000,600);                                  
+TCanvas *c1 = new TCanvas("c1","c1",1000,600);                                  
+c1->Divide(2,2);                                                                
+c1->cd(1);                                                                      
 
 Double_t norm = henergy_fEB2040->GetEntries();
+
+// First plot
 if (normalization == true) {
   henergy_fEB2040->Scale(1/norm);
   }
                                                                                 
-// Set canvas and draw; update                                                  
-TCanvas *c1 = new TCanvas("c1","c1",1000,600);                                  
-c1->Divide(2,2);                                                                
-c1->cd(1);                                                                      
+
 henergy_fEB2040->Draw();                                                          
 gStyle->SetOptStat(0);                                                          
                                                                                 
 c1->Update();                                                                   
-                                                                                
+
+// Second plot
 if (normalization == true) {
   norm = henergy_fEB4080->GetEntries();                                             
   henergy_fEB4080->Scale(1/norm);                                                   
@@ -139,10 +146,19 @@ if (normalization == true) {
 
 // Draw, set title (?) and update                                               
 henergy_fEB4080->SetLineColor(kRed);                                              
-henergy_fEB4080->SetTitle("box1;x;y");                                            
 henergy_fEB4080->Draw("same");                                                    
                                                                                 
 c1->Update();                                                                   
+
+Double_t max_2040 = henergy_fEB2040->GetMaximum();
+Double_t max_4080 = henergy_fEB4080->GetMaximum();
+
+Double_t total_max = TMath::Max(max_2040, max_4080);
+henergy_fEB2040->SetMaximum(total_max);
+henergy_fEB4080->SetMaximum(total_max);
+
+
+//cout << "This is the Maximum of 2040: " << max_2040 << "." << endl;
                                                                                 
 // Tried (but failed) to set the x axis title                                   
 //henergy_fEB40Inf->GetXaxis()->SetTitle("SCRawE");                               
@@ -268,7 +284,16 @@ c1->Update();
                                                                                 
 // Tried (but failed) to set the x axis title                                   
 //henergy_fEE40Inf->GetXaxis()->SetTitle("SCRawE");                               
-                                                                                
+
+
+max_2040 = henergy_fEE2040->GetMaximum();
+max_4080 = henergy_fEE4080->GetMaximum();
+
+total_max = TMath::Max(max_2040, max_4080);
+henergy_fEE2040->SetMaximum(total_max);
+henergy_fEE4080->SetMaximum(total_max);
+
+
 // Legend                                                                       
 leg2 = new TLegend(0.6,0.7,0.9,0.9);                                           
 leg2->SetHeader("GJet bin");                                                    
@@ -397,6 +422,13 @@ c1->Update();
 // Tried (but failed) to set the x axis title                                   
 //henergy_fEB40Inf->GetXaxis()->SetTitle("SCRawE");                               
                                                                                 
+max_2040 = henergy_pEB2040->GetMaximum();
+max_4080 = henergy_pEB4080->GetMaximum();
+
+total_max = TMath::Max(max_2040, max_4080);
+henergy_pEB2040->SetMaximum(total_max);
+henergy_pEB4080->SetMaximum(total_max);
+
 // Legend                                                                       
 leg3 = new TLegend(0.6,0.7,0.9,0.9);                                           
 leg3->SetHeader("GJet bin");                                                    
@@ -517,12 +549,38 @@ c1->Update();
 // Tried (but failed) to set the x axis title                                   
 //henergy_fEB40Inf->GetXaxis()->SetTitle("SCRawE");                               
                                                                                 
+
+max_2040 = henergy_pEE2040->GetMaximum();
+max_4080 = henergy_pEE4080->GetMaximum();
+
+total_max = TMath::Max(max_2040, max_4080);
+henergy_pEE2040->SetMaximum(total_max);
+henergy_pEE4080->SetMaximum(total_max);
+
 // Legend                                                                       
 leg4 = new TLegend(0.6,0.7,0.9,0.9);                                           
 leg4->SetHeader("GJet bin");                                                    
 leg4->AddEntry(henergy_pEE2040,"pt20-40 + pt40-Inf","l");              
 leg4->AddEntry(henergy_pEE4080,"40-80 + pt20-40 + pt40-Inf","l");           
 leg4->Draw();                                                                   
+
+string output_str;
+//if (normalization == false) output_str = "1MevtsWeighted_" + variable + "_Comparison.root";
+//else output_str = "1MevtsWeighted_" + variable + "_NormComparison.root";
+
+//if (normalization == false) output_str = "1MevtsWeighted_" + variable + "_Comparison.png";
+if (!normalization) output_str = "1MevtsWeighted_" + variable + "_Comparison.png";
+else output_str = "1MevtsWeighted_" + variable + "_NormComparison.png";
+
+
+const char *output = output_str.c_str();
+
+c1->SaveAs(output);
+
+//hfile = new TFile(output,"RECREATE","ROOT file");
+//hfile->Append(c1);
+
+//hfile->Write();
 
 if (gROOT->IsBatch()) return;                                                   
 }                                                                               
