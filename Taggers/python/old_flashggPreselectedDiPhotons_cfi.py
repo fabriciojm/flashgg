@@ -7,7 +7,7 @@ rediscoveryHLTvariables = cms.vstring(
     "trkSumPtHollowConeDR03",
     "full5x5_sigmaIetaIeta",
     "full5x5_r9",
-#    "passElectronVeto"
+    "passElectronVeto"
     )
 
 #cuts to mimic category trigger cuts
@@ -20,7 +20,7 @@ rediscoveryHLTcutsV1 = cms.VPSet(
             cms.PSet(max=cms.string("100000.0")),
             cms.PSet(max=cms.string("100000.0")),
             cms.PSet(min=cms.string("0.5")),
-#            cms.PSet(min=cms.string("0.5"))
+            cms.PSet(min=cms.string("0.5"))
             ),
              ),
     
@@ -32,7 +32,7 @@ rediscoveryHLTcutsV1 = cms.VPSet(
             cms.PSet(max=cms.string("100000.0")),
             cms.PSet(max=cms.string("100000.0")),
             cms.PSet(min=cms.string("0.8")),
-#            cms.PSet(min=cms.string("0.5"))
+            cms.PSet(min=cms.string("0.5"))
             ),
              ),
     cms.PSet(cut=cms.string("isEB && full5x5_r9<=0.85"),  #EB low R9
@@ -43,7 +43,7 @@ rediscoveryHLTcutsV1 = cms.VPSet(
             cms.PSet(max=cms.string("6.0")),
             cms.PSet(max=cms.string("0.015")),
             cms.PSet(min=cms.string("0.5")),
-#            cms.PSet(min=cms.string("0.5"))
+            cms.PSet(min=cms.string("0.5"))
             ),       
              ),       
     cms.PSet(cut=cms.string("isEE && full5x5_r9<=0.90"),  ##EE low R9
@@ -54,7 +54,7 @@ rediscoveryHLTcutsV1 = cms.VPSet(
             cms.PSet(max=cms.string("6.0")),
             cms.PSet(max=cms.string("0.035")),
             cms.PSet(min=cms.string("0.8")),
-#            cms.PSet(min=cms.string("0.5"))
+            cms.PSet(min=cms.string("0.5"))
             ),
              )
     )
@@ -63,9 +63,9 @@ rediscoveryHLTcutsV1 = cms.VPSet(
 #Also included: the super-loose ID MVA cuts
 flashggPreselectedDiPhotons = cms.EDFilter(
     "GenericDiPhotonCandidateSelector",
-    #src = cms.InputTag("flashggUpdatedIdMVADiPhotons"),
-   src = cms.InputTag("flashggDiPhotons"), 
-   rho = cms.InputTag("fixedGridRhoAll"),
+    src = cms.InputTag("flashggDiPhotons"),
+#    src = cms.InputTag("flashggUpdatedIdMVADiPhotons"),
+    rho = cms.InputTag("fixedGridRhoAll"),
 #    cut = cms.string(
 #        "    (leadingPhoton.full5x5_r9>0.8||leadingPhoton.egChargedHadronIso<20||leadingPhoton.egChargedHadronIso/leadingPhoton.pt<0.3)"
 #        " && (subLeadingPhoton.full5x5_r9>0.8||subLeadingPhoton.egChargedHadronIso<20||subLeadingPhoton.egChargedHadronIso/subLeadingPhoton.pt<0.3)"
@@ -75,13 +75,9 @@ flashggPreselectedDiPhotons = cms.EDFilter(
 #        " && (abs(leadingPhoton.superCluster.eta) < 1.4442 || abs(leadingPhoton.superCluster.eta) > 1.566)"
 #        " && (abs(subLeadingPhoton.superCluster.eta) < 1.4442 || abs(subLeadingPhoton.superCluster.eta) > 1.566)"
 #        " && (leadPhotonId > -0.9 && subLeadPhotonId > -0.9)"
-#       Pixel seed veto already implemented in the dumper.
-#        " && (!leadingPhoton.hasPixelSeed) && (!subLeadingPhoton.hasPixelSeed)"#low mass
-#        " && (leadingPhoton.pt > mass/1.875 && subLeadingPhoton.pt > mass/3.)"#low mass run II ?
-#        " && (leadingPhoton.pt > mass/3. && subLeadingPhoton.pt > mass/4.)#low mass run I
-#        " && mass > 55 "#low mass
+#        " && (leadingPhoton.pt > mass/3. && subLeadingPhoton.pt > mass/4.)"
 #        " && (leadingPhoton.passElectronVeto) && (subLeadingPhoton.passElectronVeto)"
-        ),
+#        ),
     variables = rediscoveryHLTvariables,
     categories = rediscoveryHLTcutsV1
     )
