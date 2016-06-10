@@ -4844,1491 +4844,6 @@
         ], 
         "vetted": true
     }, 
-    "/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/ferrif-RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1-7c7ed1c7bfe704638af8ca4418b6fb3d/USER": {
-        "files": [
-            {
-                "bad": false, 
-                "events": 236451, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_1.root", 
-                "nevents": 236451, 
-                "totEvents": 236451, 
-                "weights": 236451.0
-            }, 
-            {
-                "bad": false, 
-                "events": 203969, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_10.root", 
-                "nevents": 203969, 
-                "totEvents": 203969, 
-                "weights": 203969.0
-            }, 
-            {
-                "bad": false, 
-                "events": 224736, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_100.root", 
-                "nevents": 224736, 
-                "totEvents": 224736, 
-                "weights": 224736.0
-            }, 
-            {
-                "bad": false, 
-                "events": 228185, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_102.root", 
-                "nevents": 228185, 
-                "totEvents": 228185, 
-                "weights": 228185.0
-            }, 
-            {
-                "bad": false, 
-                "events": 211201, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_103.root", 
-                "nevents": 211201, 
-                "totEvents": 211201, 
-                "weights": 211201.0
-            }, 
-            {
-                "bad": false, 
-                "events": 236923, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_104.root", 
-                "nevents": 236923, 
-                "totEvents": 236923, 
-                "weights": 236923.0
-            }, 
-            {
-                "bad": false, 
-                "events": 202181, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_105.root", 
-                "nevents": 202181, 
-                "totEvents": 202181, 
-                "weights": 202181.0
-            }, 
-            {
-                "bad": false, 
-                "events": 234929, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_107.root", 
-                "nevents": 234929, 
-                "totEvents": 234929, 
-                "weights": 234929.0
-            }, 
-            {
-                "bad": false, 
-                "events": 218558, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_108.root", 
-                "nevents": 218558, 
-                "totEvents": 218558, 
-                "weights": 218558.0
-            }, 
-            {
-                "bad": false, 
-                "events": 217191, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_109.root", 
-                "nevents": 217191, 
-                "totEvents": 217191, 
-                "weights": 217191.0
-            }, 
-            {
-                "bad": false, 
-                "events": 190200, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_11.root", 
-                "nevents": 190200, 
-                "totEvents": 190200, 
-                "weights": 190200.0
-            }, 
-            {
-                "bad": false, 
-                "events": 233347, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_110.root", 
-                "nevents": 233347, 
-                "totEvents": 233347, 
-                "weights": 233347.0
-            }, 
-            {
-                "bad": false, 
-                "events": 204417, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_111.root", 
-                "nevents": 204417, 
-                "totEvents": 204417, 
-                "weights": 204417.0
-            }, 
-            {
-                "bad": false, 
-                "events": 234101, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_112.root", 
-                "nevents": 234101, 
-                "totEvents": 234101, 
-                "weights": 234101.0
-            }, 
-            {
-                "bad": false, 
-                "events": 195686, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_113.root", 
-                "nevents": 195686, 
-                "totEvents": 195686, 
-                "weights": 195686.0
-            }, 
-            {
-                "bad": false, 
-                "events": 222318, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_114.root", 
-                "nevents": 222318, 
-                "totEvents": 222318, 
-                "weights": 222318.0
-            }, 
-            {
-                "bad": false, 
-                "events": 236317, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_115.root", 
-                "nevents": 236317, 
-                "totEvents": 236317, 
-                "weights": 236317.0
-            }, 
-            {
-                "bad": false, 
-                "events": 219031, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_116.root", 
-                "nevents": 219031, 
-                "totEvents": 219031, 
-                "weights": 219031.0
-            }, 
-            {
-                "bad": false, 
-                "events": 217415, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_117.root", 
-                "nevents": 217415, 
-                "totEvents": 217415, 
-                "weights": 217415.0
-            }, 
-            {
-                "bad": false, 
-                "events": 225164, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_118.root", 
-                "nevents": 225164, 
-                "totEvents": 225164, 
-                "weights": 225164.0
-            }, 
-            {
-                "bad": false, 
-                "events": 230166, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_119.root", 
-                "nevents": 230166, 
-                "totEvents": 230166, 
-                "weights": 230166.0
-            }, 
-            {
-                "bad": false, 
-                "events": 183061, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_12.root", 
-                "nevents": 183061, 
-                "totEvents": 183061, 
-                "weights": 183061.0
-            }, 
-            {
-                "bad": false, 
-                "events": 240421, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_120.root", 
-                "nevents": 240421, 
-                "totEvents": 240421, 
-                "weights": 240421.0
-            }, 
-            {
-                "bad": false, 
-                "events": 207356, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_121.root", 
-                "nevents": 207356, 
-                "totEvents": 207356, 
-                "weights": 207356.0
-            }, 
-            {
-                "bad": false, 
-                "events": 211765, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_122.root", 
-                "nevents": 211765, 
-                "totEvents": 211765, 
-                "weights": 211765.0
-            }, 
-            {
-                "bad": false, 
-                "events": 221008, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_123.root", 
-                "nevents": 221008, 
-                "totEvents": 221008, 
-                "weights": 221008.0
-            }, 
-            {
-                "bad": false, 
-                "events": 202216, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_125.root", 
-                "nevents": 202216, 
-                "totEvents": 202216, 
-                "weights": 202216.0
-            }, 
-            {
-                "bad": false, 
-                "events": 230216, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_126.root", 
-                "nevents": 230216, 
-                "totEvents": 230216, 
-                "weights": 230216.0
-            }, 
-            {
-                "bad": false, 
-                "events": 231525, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_127.root", 
-                "nevents": 231525, 
-                "totEvents": 231525, 
-                "weights": 231525.0
-            }, 
-            {
-                "bad": false, 
-                "events": 198528, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_128.root", 
-                "nevents": 198528, 
-                "totEvents": 198528, 
-                "weights": 198528.0
-            }, 
-            {
-                "bad": false, 
-                "events": 183955, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_13.root", 
-                "nevents": 183955, 
-                "totEvents": 183955, 
-                "weights": 183955.0
-            }, 
-            {
-                "bad": false, 
-                "events": 199730, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_130.root", 
-                "nevents": 199730, 
-                "totEvents": 199730, 
-                "weights": 199730.0
-            }, 
-            {
-                "bad": false, 
-                "events": 192251, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_131.root", 
-                "nevents": 192251, 
-                "totEvents": 192251, 
-                "weights": 192251.0
-            }, 
-            {
-                "bad": false, 
-                "events": 234955, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_132.root", 
-                "nevents": 234955, 
-                "totEvents": 234955, 
-                "weights": 234955.0
-            }, 
-            {
-                "bad": false, 
-                "events": 207356, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_133.root", 
-                "nevents": 207356, 
-                "totEvents": 207356, 
-                "weights": 207356.0
-            }, 
-            {
-                "bad": false, 
-                "events": 143342, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_135.root", 
-                "nevents": 143342, 
-                "totEvents": 143342, 
-                "weights": 143342.0
-            }, 
-            {
-                "bad": false, 
-                "events": 211288, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_136.root", 
-                "nevents": 211288, 
-                "totEvents": 211288, 
-                "weights": 211288.0
-            }, 
-            {
-                "bad": false, 
-                "events": 218407, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_137.root", 
-                "nevents": 218407, 
-                "totEvents": 218407, 
-                "weights": 218407.0
-            }, 
-            {
-                "bad": false, 
-                "events": 210105, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_138.root", 
-                "nevents": 210105, 
-                "totEvents": 210105, 
-                "weights": 210105.0
-            }, 
-            {
-                "bad": false, 
-                "events": 209530, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_139.root", 
-                "nevents": 209530, 
-                "totEvents": 209530, 
-                "weights": 209530.0
-            }, 
-            {
-                "bad": false, 
-                "events": 213075, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_14.root", 
-                "nevents": 213075, 
-                "totEvents": 213075, 
-                "weights": 213075.0
-            }, 
-            {
-                "bad": false, 
-                "events": 211134, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_140.root", 
-                "nevents": 211134, 
-                "totEvents": 211134, 
-                "weights": 211134.0
-            }, 
-            {
-                "bad": false, 
-                "events": 223757, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_141.root", 
-                "nevents": 223757, 
-                "totEvents": 223757, 
-                "weights": 223757.0
-            }, 
-            {
-                "bad": false, 
-                "events": 218829, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_142.root", 
-                "nevents": 218829, 
-                "totEvents": 218829, 
-                "weights": 218829.0
-            }, 
-            {
-                "bad": false, 
-                "events": 234234, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_143.root", 
-                "nevents": 234234, 
-                "totEvents": 234234, 
-                "weights": 234234.0
-            }, 
-            {
-                "bad": false, 
-                "events": 199442, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_144.root", 
-                "nevents": 199442, 
-                "totEvents": 199442, 
-                "weights": 199442.0
-            }, 
-            {
-                "bad": false, 
-                "events": 219896, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_145.root", 
-                "nevents": 219896, 
-                "totEvents": 219896, 
-                "weights": 219896.0
-            }, 
-            {
-                "bad": false, 
-                "events": 225828, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_146.root", 
-                "nevents": 225828, 
-                "totEvents": 225828, 
-                "weights": 225828.0
-            }, 
-            {
-                "bad": false, 
-                "events": 196566, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_147.root", 
-                "nevents": 196566, 
-                "totEvents": 196566, 
-                "weights": 196566.0
-            }, 
-            {
-                "bad": false, 
-                "events": 223789, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_149.root", 
-                "nevents": 223789, 
-                "totEvents": 223789, 
-                "weights": 223789.0
-            }, 
-            {
-                "bad": false, 
-                "events": 240119, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_15.root", 
-                "nevents": 240119, 
-                "totEvents": 240119, 
-                "weights": 240119.0
-            }, 
-            {
-                "bad": false, 
-                "events": 220042, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_150.root", 
-                "nevents": 220042, 
-                "totEvents": 220042, 
-                "weights": 220042.0
-            }, 
-            {
-                "bad": false, 
-                "events": 184476, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_151.root", 
-                "nevents": 184476, 
-                "totEvents": 184476, 
-                "weights": 184476.0
-            }, 
-            {
-                "bad": false, 
-                "events": 191910, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_152.root", 
-                "nevents": 191910, 
-                "totEvents": 191910, 
-                "weights": 191910.0
-            }, 
-            {
-                "bad": false, 
-                "events": 207616, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_153.root", 
-                "nevents": 207616, 
-                "totEvents": 207616, 
-                "weights": 207616.0
-            }, 
-            {
-                "bad": false, 
-                "events": 222017, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_154.root", 
-                "nevents": 222017, 
-                "totEvents": 222017, 
-                "weights": 222017.0
-            }, 
-            {
-                "bad": false, 
-                "events": 222039, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_155.root", 
-                "nevents": 222039, 
-                "totEvents": 222039, 
-                "weights": 222039.0
-            }, 
-            {
-                "bad": false, 
-                "events": 204853, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_156.root", 
-                "nevents": 204853, 
-                "totEvents": 204853, 
-                "weights": 204853.0
-            }, 
-            {
-                "bad": false, 
-                "events": 236338, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_157.root", 
-                "nevents": 236338, 
-                "totEvents": 236338, 
-                "weights": 236338.0
-            }, 
-            {
-                "bad": false, 
-                "events": 229173, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_158.root", 
-                "nevents": 229173, 
-                "totEvents": 229173, 
-                "weights": 229173.0
-            }, 
-            {
-                "bad": false, 
-                "events": 178767, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_159.root", 
-                "nevents": 178767, 
-                "totEvents": 178767, 
-                "weights": 178767.0
-            }, 
-            {
-                "bad": false, 
-                "events": 189787, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_16.root", 
-                "nevents": 189787, 
-                "totEvents": 189787, 
-                "weights": 189787.0
-            }, 
-            {
-                "bad": false, 
-                "events": 229717, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_160.root", 
-                "nevents": 229717, 
-                "totEvents": 229717, 
-                "weights": 229717.0
-            }, 
-            {
-                "bad": false, 
-                "events": 232769, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_161.root", 
-                "nevents": 232769, 
-                "totEvents": 232769, 
-                "weights": 232769.0
-            }, 
-            {
-                "bad": false, 
-                "events": 204089, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_162.root", 
-                "nevents": 204089, 
-                "totEvents": 204089, 
-                "weights": 204089.0
-            }, 
-            {
-                "bad": false, 
-                "events": 215991, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_163.root", 
-                "nevents": 215991, 
-                "totEvents": 215991, 
-                "weights": 215991.0
-            }, 
-            {
-                "bad": false, 
-                "events": 220725, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_164.root", 
-                "nevents": 220725, 
-                "totEvents": 220725, 
-                "weights": 220725.0
-            }, 
-            {
-                "bad": false, 
-                "events": 220985, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_165.root", 
-                "nevents": 220985, 
-                "totEvents": 220985, 
-                "weights": 220985.0
-            }, 
-            {
-                "bad": false, 
-                "events": 218564, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_166.root", 
-                "nevents": 218564, 
-                "totEvents": 218564, 
-                "weights": 218564.0
-            }, 
-            {
-                "bad": false, 
-                "events": 209756, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_167.root", 
-                "nevents": 209756, 
-                "totEvents": 209756, 
-                "weights": 209756.0
-            }, 
-            {
-                "bad": false, 
-                "events": 212623, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_168.root", 
-                "nevents": 212623, 
-                "totEvents": 212623, 
-                "weights": 212623.0
-            }, 
-            {
-                "bad": false, 
-                "events": 190613, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_169.root", 
-                "nevents": 190613, 
-                "totEvents": 190613, 
-                "weights": 190613.0
-            }, 
-            {
-                "bad": false, 
-                "events": 222891, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_17.root", 
-                "nevents": 222891, 
-                "totEvents": 222891, 
-                "weights": 222891.0
-            }, 
-            {
-                "bad": false, 
-                "events": 171875, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_172.root", 
-                "nevents": 171875, 
-                "totEvents": 171875, 
-                "weights": 171875.0
-            }, 
-            {
-                "bad": false, 
-                "events": 212772, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_176.root", 
-                "nevents": 212772, 
-                "totEvents": 212772, 
-                "weights": 212772.0
-            }, 
-            {
-                "bad": false, 
-                "events": 204847, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_177.root", 
-                "nevents": 204847, 
-                "totEvents": 204847, 
-                "weights": 204847.0
-            }, 
-            {
-                "bad": false, 
-                "events": 202824, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_178.root", 
-                "nevents": 202824, 
-                "totEvents": 202824, 
-                "weights": 202824.0
-            }, 
-            {
-                "bad": false, 
-                "events": 219071, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_179.root", 
-                "nevents": 219071, 
-                "totEvents": 219071, 
-                "weights": 219071.0
-            }, 
-            {
-                "bad": false, 
-                "events": 98168, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_180.root", 
-                "nevents": 98168, 
-                "totEvents": 98168, 
-                "weights": 98168.0
-            }, 
-            {
-                "bad": false, 
-                "events": 226542, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_181.root", 
-                "nevents": 226542, 
-                "totEvents": 226542, 
-                "weights": 226542.0
-            }, 
-            {
-                "bad": false, 
-                "events": 133209, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_182.root", 
-                "nevents": 133209, 
-                "totEvents": 133209, 
-                "weights": 133209.0
-            }, 
-            {
-                "bad": false, 
-                "events": 208447, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_183.root", 
-                "nevents": 208447, 
-                "totEvents": 208447, 
-                "weights": 208447.0
-            }, 
-            {
-                "bad": false, 
-                "events": 182323, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_184.root", 
-                "nevents": 182323, 
-                "totEvents": 182323, 
-                "weights": 182323.0
-            }, 
-            {
-                "bad": false, 
-                "events": 44725, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_185.root", 
-                "nevents": 44725, 
-                "totEvents": 44725, 
-                "weights": 44725.0
-            }, 
-            {
-                "bad": false, 
-                "events": 229637, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_19.root", 
-                "nevents": 229637, 
-                "totEvents": 229637, 
-                "weights": 229637.0
-            }, 
-            {
-                "bad": false, 
-                "events": 216182, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_2.root", 
-                "nevents": 216182, 
-                "totEvents": 216182, 
-                "weights": 216182.0
-            }, 
-            {
-                "bad": false, 
-                "events": 185546, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_20.root", 
-                "nevents": 185546, 
-                "totEvents": 185546, 
-                "weights": 185546.0
-            }, 
-            {
-                "bad": false, 
-                "events": 225627, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_21.root", 
-                "nevents": 225627, 
-                "totEvents": 225627, 
-                "weights": 225627.0
-            }, 
-            {
-                "bad": false, 
-                "events": 225781, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_22.root", 
-                "nevents": 225781, 
-                "totEvents": 225781, 
-                "weights": 225781.0
-            }, 
-            {
-                "bad": false, 
-                "events": 186967, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_23.root", 
-                "nevents": 186967, 
-                "totEvents": 186967, 
-                "weights": 186967.0
-            }, 
-            {
-                "bad": false, 
-                "events": 231831, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_24.root", 
-                "nevents": 231831, 
-                "totEvents": 231831, 
-                "weights": 231831.0
-            }, 
-            {
-                "bad": false, 
-                "events": 214469, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_25.root", 
-                "nevents": 214469, 
-                "totEvents": 214469, 
-                "weights": 214469.0
-            }, 
-            {
-                "bad": false, 
-                "events": 202687, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_26.root", 
-                "nevents": 202687, 
-                "totEvents": 202687, 
-                "weights": 202687.0
-            }, 
-            {
-                "bad": false, 
-                "events": 206612, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_27.root", 
-                "nevents": 206612, 
-                "totEvents": 206612, 
-                "weights": 206612.0
-            }, 
-            {
-                "bad": false, 
-                "events": 212104, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_28.root", 
-                "nevents": 212104, 
-                "totEvents": 212104, 
-                "weights": 212104.0
-            }, 
-            {
-                "bad": false, 
-                "events": 171782, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_29.root", 
-                "nevents": 171782, 
-                "totEvents": 171782, 
-                "weights": 171782.0
-            }, 
-            {
-                "bad": false, 
-                "events": 227065, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_3.root", 
-                "nevents": 227065, 
-                "totEvents": 227065, 
-                "weights": 227065.0
-            }, 
-            {
-                "bad": false, 
-                "events": 196032, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_30.root", 
-                "nevents": 196032, 
-                "totEvents": 196032, 
-                "weights": 196032.0
-            }, 
-            {
-                "bad": false, 
-                "events": 199329, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_31.root", 
-                "nevents": 199329, 
-                "totEvents": 199329, 
-                "weights": 199329.0
-            }, 
-            {
-                "bad": false, 
-                "events": 195559, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_32.root", 
-                "nevents": 195559, 
-                "totEvents": 195559, 
-                "weights": 195559.0
-            }, 
-            {
-                "bad": false, 
-                "events": 238141, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_33.root", 
-                "nevents": 238141, 
-                "totEvents": 238141, 
-                "weights": 238141.0
-            }, 
-            {
-                "bad": false, 
-                "events": 196460, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_35.root", 
-                "nevents": 196460, 
-                "totEvents": 196460, 
-                "weights": 196460.0
-            }, 
-            {
-                "bad": false, 
-                "events": 210089, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_36.root", 
-                "nevents": 210089, 
-                "totEvents": 210089, 
-                "weights": 210089.0
-            }, 
-            {
-                "bad": false, 
-                "events": 221255, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_37.root", 
-                "nevents": 221255, 
-                "totEvents": 221255, 
-                "weights": 221255.0
-            }, 
-            {
-                "bad": false, 
-                "events": 198666, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_38.root", 
-                "nevents": 198666, 
-                "totEvents": 198666, 
-                "weights": 198666.0
-            }, 
-            {
-                "bad": false, 
-                "events": 207719, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_39.root", 
-                "nevents": 207719, 
-                "totEvents": 207719, 
-                "weights": 207719.0
-            }, 
-            {
-                "bad": false, 
-                "events": 178699, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_4.root", 
-                "nevents": 178699, 
-                "totEvents": 178699, 
-                "weights": 178699.0
-            }, 
-            {
-                "bad": false, 
-                "events": 193486, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_40.root", 
-                "nevents": 193486, 
-                "totEvents": 193486, 
-                "weights": 193486.0
-            }, 
-            {
-                "bad": false, 
-                "events": 230831, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_41.root", 
-                "nevents": 230831, 
-                "totEvents": 230831, 
-                "weights": 230831.0
-            }, 
-            {
-                "bad": false, 
-                "events": 186072, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_42.root", 
-                "nevents": 186072, 
-                "totEvents": 186072, 
-                "weights": 186072.0
-            }, 
-            {
-                "bad": false, 
-                "events": 201814, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_43.root", 
-                "nevents": 201814, 
-                "totEvents": 201814, 
-                "weights": 201814.0
-            }, 
-            {
-                "bad": false, 
-                "events": 205899, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_44.root", 
-                "nevents": 205899, 
-                "totEvents": 205899, 
-                "weights": 205899.0
-            }, 
-            {
-                "bad": false, 
-                "events": 197539, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_45.root", 
-                "nevents": 197539, 
-                "totEvents": 197539, 
-                "weights": 197539.0
-            }, 
-            {
-                "bad": false, 
-                "events": 222550, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_46.root", 
-                "nevents": 222550, 
-                "totEvents": 222550, 
-                "weights": 222550.0
-            }, 
-            {
-                "bad": false, 
-                "events": 211673, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_47.root", 
-                "nevents": 211673, 
-                "totEvents": 211673, 
-                "weights": 211673.0
-            }, 
-            {
-                "bad": false, 
-                "events": 213894, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_48.root", 
-                "nevents": 213894, 
-                "totEvents": 213894, 
-                "weights": 213894.0
-            }, 
-            {
-                "bad": false, 
-                "events": 209520, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_49.root", 
-                "nevents": 209520, 
-                "totEvents": 209520, 
-                "weights": 209520.0
-            }, 
-            {
-                "bad": false, 
-                "events": 164607, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_5.root", 
-                "nevents": 164607, 
-                "totEvents": 164607, 
-                "weights": 164607.0
-            }, 
-            {
-                "bad": false, 
-                "events": 213064, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_50.root", 
-                "nevents": 213064, 
-                "totEvents": 213064, 
-                "weights": 213064.0
-            }, 
-            {
-                "bad": false, 
-                "events": 202672, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_51.root", 
-                "nevents": 202672, 
-                "totEvents": 202672, 
-                "weights": 202672.0
-            }, 
-            {
-                "bad": false, 
-                "events": 212608, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_52.root", 
-                "nevents": 212608, 
-                "totEvents": 212608, 
-                "weights": 212608.0
-            }, 
-            {
-                "bad": false, 
-                "events": 195894, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_53.root", 
-                "nevents": 195894, 
-                "totEvents": 195894, 
-                "weights": 195894.0
-            }, 
-            {
-                "bad": false, 
-                "events": 230314, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_54.root", 
-                "nevents": 230314, 
-                "totEvents": 230314, 
-                "weights": 230314.0
-            }, 
-            {
-                "bad": false, 
-                "events": 227657, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_55.root", 
-                "nevents": 227657, 
-                "totEvents": 227657, 
-                "weights": 227657.0
-            }, 
-            {
-                "bad": false, 
-                "events": 210219, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_56.root", 
-                "nevents": 210219, 
-                "totEvents": 210219, 
-                "weights": 210219.0
-            }, 
-            {
-                "bad": false, 
-                "events": 219385, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_57.root", 
-                "nevents": 219385, 
-                "totEvents": 219385, 
-                "weights": 219385.0
-            }, 
-            {
-                "bad": false, 
-                "events": 204747, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_59.root", 
-                "nevents": 204747, 
-                "totEvents": 204747, 
-                "weights": 204747.0
-            }, 
-            {
-                "bad": false, 
-                "events": 219911, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_60.root", 
-                "nevents": 219911, 
-                "totEvents": 219911, 
-                "weights": 219911.0
-            }, 
-            {
-                "bad": false, 
-                "events": 186792, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_61.root", 
-                "nevents": 186792, 
-                "totEvents": 186792, 
-                "weights": 186792.0
-            }, 
-            {
-                "bad": false, 
-                "events": 212479, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_62.root", 
-                "nevents": 212479, 
-                "totEvents": 212479, 
-                "weights": 212479.0
-            }, 
-            {
-                "bad": false, 
-                "events": 207133, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_63.root", 
-                "nevents": 207133, 
-                "totEvents": 207133, 
-                "weights": 207133.0
-            }, 
-            {
-                "bad": false, 
-                "events": 217012, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_64.root", 
-                "nevents": 217012, 
-                "totEvents": 217012, 
-                "weights": 217012.0
-            }, 
-            {
-                "bad": false, 
-                "events": 224730, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_65.root", 
-                "nevents": 224730, 
-                "totEvents": 224730, 
-                "weights": 224730.0
-            }, 
-            {
-                "bad": false, 
-                "events": 181884, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_66.root", 
-                "nevents": 181884, 
-                "totEvents": 181884, 
-                "weights": 181884.0
-            }, 
-            {
-                "bad": false, 
-                "events": 193066, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_67.root", 
-                "nevents": 193066, 
-                "totEvents": 193066, 
-                "weights": 193066.0
-            }, 
-            {
-                "bad": false, 
-                "events": 239300, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_68.root", 
-                "nevents": 239300, 
-                "totEvents": 239300, 
-                "weights": 239300.0
-            }, 
-            {
-                "bad": false, 
-                "events": 188611, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_69.root", 
-                "nevents": 188611, 
-                "totEvents": 188611, 
-                "weights": 188611.0
-            }, 
-            {
-                "bad": false, 
-                "events": 219048, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_7.root", 
-                "nevents": 219048, 
-                "totEvents": 219048, 
-                "weights": 219048.0
-            }, 
-            {
-                "bad": false, 
-                "events": 213707, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_70.root", 
-                "nevents": 213707, 
-                "totEvents": 213707, 
-                "weights": 213707.0
-            }, 
-            {
-                "bad": false, 
-                "events": 219613, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_72.root", 
-                "nevents": 219613, 
-                "totEvents": 219613, 
-                "weights": 219613.0
-            }, 
-            {
-                "bad": false, 
-                "events": 183363, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_73.root", 
-                "nevents": 183363, 
-                "totEvents": 183363, 
-                "weights": 183363.0
-            }, 
-            {
-                "bad": false, 
-                "events": 194602, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_75.root", 
-                "nevents": 194602, 
-                "totEvents": 194602, 
-                "weights": 194602.0
-            }, 
-            {
-                "bad": false, 
-                "events": 216265, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_76.root", 
-                "nevents": 216265, 
-                "totEvents": 216265, 
-                "weights": 216265.0
-            }, 
-            {
-                "bad": false, 
-                "events": 201159, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_77.root", 
-                "nevents": 201159, 
-                "totEvents": 201159, 
-                "weights": 201159.0
-            }, 
-            {
-                "bad": false, 
-                "events": 208248, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_79.root", 
-                "nevents": 208248, 
-                "totEvents": 208248, 
-                "weights": 208248.0
-            }, 
-            {
-                "bad": false, 
-                "events": 211912, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_8.root", 
-                "nevents": 211912, 
-                "totEvents": 211912, 
-                "weights": 211912.0
-            }, 
-            {
-                "bad": false, 
-                "events": 187901, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_80.root", 
-                "nevents": 187901, 
-                "totEvents": 187901, 
-                "weights": 187901.0
-            }, 
-            {
-                "bad": false, 
-                "events": 200698, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_83.root", 
-                "nevents": 200698, 
-                "totEvents": 200698, 
-                "weights": 200698.0
-            }, 
-            {
-                "bad": false, 
-                "events": 200191, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_84.root", 
-                "nevents": 200191, 
-                "totEvents": 200191, 
-                "weights": 200191.0
-            }, 
-            {
-                "bad": false, 
-                "events": 206793, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_85.root", 
-                "nevents": 206793, 
-                "totEvents": 206793, 
-                "weights": 206793.0
-            }, 
-            {
-                "bad": false, 
-                "events": 189467, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_86.root", 
-                "nevents": 189467, 
-                "totEvents": 189467, 
-                "weights": 189467.0
-            }, 
-            {
-                "bad": false, 
-                "events": 214489, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_87.root", 
-                "nevents": 214489, 
-                "totEvents": 214489, 
-                "weights": 214489.0
-            }, 
-            {
-                "bad": false, 
-                "events": 218572, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_88.root", 
-                "nevents": 218572, 
-                "totEvents": 218572, 
-                "weights": 218572.0
-            }, 
-            {
-                "bad": false, 
-                "events": 216534, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_89.root", 
-                "nevents": 216534, 
-                "totEvents": 216534, 
-                "weights": 216534.0
-            }, 
-            {
-                "bad": false, 
-                "events": 224619, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_9.root", 
-                "nevents": 224619, 
-                "totEvents": 224619, 
-                "weights": 224619.0
-            }, 
-            {
-                "bad": false, 
-                "events": 214670, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_91.root", 
-                "nevents": 214670, 
-                "totEvents": 214670, 
-                "weights": 214670.0
-            }, 
-            {
-                "bad": false, 
-                "events": 227780, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_92.root", 
-                "nevents": 227780, 
-                "totEvents": 227780, 
-                "weights": 227780.0
-            }, 
-            {
-                "bad": false, 
-                "events": 177046, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_93.root", 
-                "nevents": 177046, 
-                "totEvents": 177046, 
-                "weights": 177046.0
-            }, 
-            {
-                "bad": false, 
-                "events": 223435, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_94.root", 
-                "nevents": 223435, 
-                "totEvents": 223435, 
-                "weights": 223435.0
-            }, 
-            {
-                "bad": false, 
-                "events": 205103, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_96.root", 
-                "nevents": 205103, 
-                "totEvents": 205103, 
-                "weights": 205103.0
-            }, 
-            {
-                "bad": false, 
-                "events": 196760, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_98.root", 
-                "nevents": 196760, 
-                "totEvents": 196760, 
-                "weights": 196760.0
-            }, 
-            {
-                "bad": false, 
-                "events": 210037, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_99.root", 
-                "nevents": 210037, 
-                "totEvents": 210037, 
-                "weights": 210037.0
-            }, 
-            {
-                "bad": false, 
-                "events": 217382, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_124.root", 
-                "nevents": 217382, 
-                "totEvents": 217382, 
-                "weights": 217382.0
-            }, 
-            {
-                "bad": false, 
-                "events": 206904, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_134.root", 
-                "nevents": 206904, 
-                "totEvents": 206904, 
-                "weights": 206904.0
-            }, 
-            {
-                "bad": false, 
-                "events": 231405, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_148.root", 
-                "nevents": 231405, 
-                "totEvents": 231405, 
-                "weights": 231405.0
-            }, 
-            {
-                "bad": false, 
-                "events": 187933, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_34.root", 
-                "nevents": 187933, 
-                "totEvents": 187933, 
-                "weights": 187933.0
-            }, 
-            {
-                "bad": false, 
-                "events": 216000, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_58.root", 
-                "nevents": 216000, 
-                "totEvents": 216000, 
-                "weights": 216000.0
-            }, 
-            {
-                "bad": false, 
-                "events": 213730, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_6.root", 
-                "nevents": 213730, 
-                "totEvents": 213730, 
-                "weights": 213730.0
-            }, 
-            {
-                "bad": false, 
-                "events": 230720, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_78.root", 
-                "nevents": 230720, 
-                "totEvents": 230720, 
-                "weights": 230720.0
-            }, 
-            {
-                "bad": false, 
-                "events": 220392, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_81.root", 
-                "nevents": 220392, 
-                "totEvents": 220392, 
-                "weights": 220392.0
-            }, 
-            {
-                "bad": false, 
-                "events": 199835, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_82.root", 
-                "nevents": 199835, 
-                "totEvents": 199835, 
-                "weights": 199835.0
-            }, 
-            {
-                "bad": false, 
-                "events": 213817, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_95.root", 
-                "nevents": 213817, 
-                "totEvents": 213817, 
-                "weights": 213817.0
-            }, 
-            {
-                "bad": false, 
-                "events": 209781, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_97.root", 
-                "nevents": 209781, 
-                "totEvents": 209781, 
-                "weights": 209781.0
-            }, 
-            {
-                "bad": false, 
-                "events": 200247, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_101.root", 
-                "nevents": 200247, 
-                "totEvents": 200247, 
-                "weights": 200247.0
-            }, 
-            {
-                "bad": false, 
-                "events": 218643, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_106.root", 
-                "nevents": 218643, 
-                "totEvents": 218643, 
-                "weights": 218643.0
-            }, 
-            {
-                "bad": false, 
-                "events": 197771, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_129.root", 
-                "nevents": 197771, 
-                "totEvents": 197771, 
-                "weights": 197771.0
-            }, 
-            {
-                "bad": false, 
-                "events": 197938, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_170.root", 
-                "nevents": 197938, 
-                "totEvents": 197938, 
-                "weights": 197938.0
-            }, 
-            {
-                "bad": false, 
-                "events": 215983, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_171.root", 
-                "nevents": 215983, 
-                "totEvents": 215983, 
-                "weights": 215983.0
-            }, 
-            {
-                "bad": false, 
-                "events": 205253, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_173.root", 
-                "nevents": 205253, 
-                "totEvents": 205253, 
-                "weights": 205253.0
-            }, 
-            {
-                "bad": false, 
-                "events": 185603, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_174.root", 
-                "nevents": 185603, 
-                "totEvents": 185603, 
-                "weights": 185603.0
-            }, 
-            {
-                "bad": false, 
-                "events": 241688, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_175.root", 
-                "nevents": 241688, 
-                "totEvents": 241688, 
-                "weights": 241688.0
-            }, 
-            {
-                "bad": false, 
-                "events": 224743, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_18.root", 
-                "nevents": 224743, 
-                "totEvents": 224743, 
-                "weights": 224743.0
-            }, 
-            {
-                "bad": false, 
-                "events": 207816, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_71.root", 
-                "nevents": 207816, 
-                "totEvents": 207816, 
-                "weights": 207816.0
-            }, 
-            {
-                "bad": false, 
-                "events": 157029, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_74.root", 
-                "nevents": 157029, 
-                "totEvents": 157029, 
-                "weights": 157029.0
-            }, 
-            {
-                "bad": false, 
-                "events": 234084, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-20toInf_DoubleEMEnriched_MGG-40to80_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050105/0000/myMicroAODOutputFile_90.root", 
-                "nevents": 234084, 
-                "totEvents": 234084, 
-                "weights": 234084.0
-            }
-        ], 
-        "vetted": true
-    }, 
     "/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/ferrif-RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1-7c7ed1c7bfe704638af8ca4418b6fb3d/USER": {
         "files": [
             {
@@ -6482,6 +4997,14 @@
                 "nevents": 185509, 
                 "totEvents": 185509, 
                 "weights": 185509.0
+            }, 
+            {
+                "bad": false, 
+                "events": 186922, 
+                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_116.root", 
+                "nevents": 186922, 
+                "totEvents": 186922, 
+                "weights": 186922.0
             }, 
             {
                 "bad": false, 
@@ -6701,11 +5224,35 @@
             }, 
             {
                 "bad": false, 
+                "events": 220142, 
+                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_141.root", 
+                "nevents": 220142, 
+                "totEvents": 220142, 
+                "weights": 220142.0
+            }, 
+            {
+                "bad": false, 
+                "events": 225592, 
+                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_142.root", 
+                "nevents": 225592, 
+                "totEvents": 225592, 
+                "weights": 225592.0
+            }, 
+            {
+                "bad": false, 
                 "events": 198677, 
                 "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_143.root", 
                 "nevents": 198677, 
                 "totEvents": 198677, 
                 "weights": 198677.0
+            }, 
+            {
+                "bad": false, 
+                "events": 209102, 
+                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_144.root", 
+                "nevents": 209102, 
+                "totEvents": 209102, 
+                "weights": 209102.0
             }, 
             {
                 "bad": false, 
@@ -6733,6 +5280,14 @@
             }, 
             {
                 "bad": false, 
+                "events": 217425, 
+                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_148.root", 
+                "nevents": 217425, 
+                "totEvents": 217425, 
+                "weights": 217425.0
+            }, 
+            {
+                "bad": false, 
                 "events": 199560, 
                 "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_149.root", 
                 "nevents": 199560, 
@@ -6757,6 +5312,30 @@
             }, 
             {
                 "bad": false, 
+                "events": 212106, 
+                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_151.root", 
+                "nevents": 212106, 
+                "totEvents": 212106, 
+                "weights": 212106.0
+            }, 
+            {
+                "bad": false, 
+                "events": 200988, 
+                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_152.root", 
+                "nevents": 200988, 
+                "totEvents": 200988, 
+                "weights": 200988.0
+            }, 
+            {
+                "bad": false, 
+                "events": 196521, 
+                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_153.root", 
+                "nevents": 196521, 
+                "totEvents": 196521, 
+                "weights": 196521.0
+            }, 
+            {
+                "bad": false, 
                 "events": 203594, 
                 "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_154.root", 
                 "nevents": 203594, 
@@ -6765,11 +5344,35 @@
             }, 
             {
                 "bad": false, 
+                "events": 203706, 
+                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_155.root", 
+                "nevents": 203706, 
+                "totEvents": 203706, 
+                "weights": 203706.0
+            }, 
+            {
+                "bad": false, 
+                "events": 179974, 
+                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_156.root", 
+                "nevents": 179974, 
+                "totEvents": 179974, 
+                "weights": 179974.0
+            }, 
+            {
+                "bad": false, 
                 "events": 181523, 
                 "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_157.root", 
                 "nevents": 181523, 
                 "totEvents": 181523, 
                 "weights": 181523.0
+            }, 
+            {
+                "bad": false, 
+                "events": 222457, 
+                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_158.root", 
+                "nevents": 222457, 
+                "totEvents": 222457, 
+                "weights": 222457.0
             }, 
             {
                 "bad": false, 
@@ -6786,6 +5389,14 @@
                 "nevents": 218455, 
                 "totEvents": 218455, 
                 "weights": 218455.0
+            }, 
+            {
+                "bad": false, 
+                "events": 192660, 
+                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_160.root", 
+                "nevents": 192660, 
+                "totEvents": 192660, 
+                "weights": 192660.0
             }, 
             {
                 "bad": false, 
@@ -6813,6 +5424,30 @@
             }, 
             {
                 "bad": false, 
+                "events": 213625, 
+                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_164.root", 
+                "nevents": 213625, 
+                "totEvents": 213625, 
+                "weights": 213625.0
+            }, 
+            {
+                "bad": false, 
+                "events": 197672, 
+                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_165.root", 
+                "nevents": 197672, 
+                "totEvents": 197672, 
+                "weights": 197672.0
+            }, 
+            {
+                "bad": false, 
+                "events": 173394, 
+                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_166.root", 
+                "nevents": 173394, 
+                "totEvents": 173394, 
+                "weights": 173394.0
+            }, 
+            {
+                "bad": false, 
                 "events": 214259, 
                 "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_167.root", 
                 "nevents": 214259, 
@@ -6834,6 +5469,14 @@
                 "nevents": 212170, 
                 "totEvents": 212170, 
                 "weights": 212170.0
+            }, 
+            {
+                "bad": false, 
+                "events": 205534, 
+                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_17.root", 
+                "nevents": 205534, 
+                "totEvents": 205534, 
+                "weights": 205534.0
             }, 
             {
                 "bad": false, 
@@ -6893,6 +5536,14 @@
             }, 
             {
                 "bad": false, 
+                "events": 208694, 
+                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_177.root", 
+                "nevents": 208694, 
+                "totEvents": 208694, 
+                "weights": 208694.0
+            }, 
+            {
+                "bad": false, 
                 "events": 214430, 
                 "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_178.root", 
                 "nevents": 214430, 
@@ -6933,6 +5584,14 @@
             }, 
             {
                 "bad": false, 
+                "events": 249012, 
+                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_182.root", 
+                "nevents": 249012, 
+                "totEvents": 249012, 
+                "weights": 249012.0
+            }, 
+            {
+                "bad": false, 
                 "events": 208368, 
                 "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_183.root", 
                 "nevents": 208368, 
@@ -6954,6 +5613,22 @@
                 "nevents": 187951, 
                 "totEvents": 187951, 
                 "weights": 187951.0
+            }, 
+            {
+                "bad": false, 
+                "events": 206684, 
+                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_186.root", 
+                "nevents": 206684, 
+                "totEvents": 206684, 
+                "weights": 206684.0
+            }, 
+            {
+                "bad": false, 
+                "events": 231974, 
+                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_187.root", 
+                "nevents": 231974, 
+                "totEvents": 231974, 
+                "weights": 231974.0
             }, 
             {
                 "bad": false, 
@@ -7021,11 +5696,27 @@
             }, 
             {
                 "bad": false, 
+                "events": 235947, 
+                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_195.root", 
+                "nevents": 235947, 
+                "totEvents": 235947, 
+                "weights": 235947.0
+            }, 
+            {
+                "bad": false, 
                 "events": 232933, 
                 "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_196.root", 
                 "nevents": 232933, 
                 "totEvents": 232933, 
                 "weights": 232933.0
+            }, 
+            {
+                "bad": false, 
+                "events": 222743, 
+                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_197.root", 
+                "nevents": 222743, 
+                "totEvents": 222743, 
+                "weights": 222743.0
             }, 
             {
                 "bad": false, 
@@ -7082,6 +5773,14 @@
                 "nevents": 213551, 
                 "totEvents": 213551, 
                 "weights": 213551.0
+            }, 
+            {
+                "bad": false, 
+                "events": 220603, 
+                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_203.root", 
+                "nevents": 220603, 
+                "totEvents": 220603, 
+                "weights": 220603.0
             }, 
             {
                 "bad": false, 
@@ -7157,6 +5856,14 @@
             }, 
             {
                 "bad": false, 
+                "events": 218468, 
+                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_212.root", 
+                "nevents": 218468, 
+                "totEvents": 218468, 
+                "weights": 218468.0
+            }, 
+            {
+                "bad": false, 
                 "events": 210544, 
                 "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_213.root", 
                 "nevents": 210544, 
@@ -7221,6 +5928,14 @@
             }, 
             {
                 "bad": false, 
+                "events": 183549, 
+                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_220.root", 
+                "nevents": 183549, 
+                "totEvents": 183549, 
+                "weights": 183549.0
+            }, 
+            {
+                "bad": false, 
                 "events": 193563, 
                 "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_221.root", 
                 "nevents": 193563, 
@@ -7258,6 +5973,14 @@
                 "nevents": 219503, 
                 "totEvents": 219503, 
                 "weights": 219503.0
+            }, 
+            {
+                "bad": false, 
+                "events": 235923, 
+                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_226.root", 
+                "nevents": 235923, 
+                "totEvents": 235923, 
+                "weights": 235923.0
             }, 
             {
                 "bad": false, 
@@ -7541,6 +6264,14 @@
             }, 
             {
                 "bad": false, 
+                "events": 213349, 
+                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_259.root", 
+                "nevents": 213349, 
+                "totEvents": 213349, 
+                "weights": 213349.0
+            }, 
+            {
+                "bad": false, 
                 "events": 215164, 
                 "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_26.root", 
                 "nevents": 215164, 
@@ -7570,6 +6301,14 @@
                 "nevents": 198633, 
                 "totEvents": 198633, 
                 "weights": 198633.0
+            }, 
+            {
+                "bad": false, 
+                "events": 214197, 
+                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_263.root", 
+                "nevents": 214197, 
+                "totEvents": 214197, 
+                "weights": 214197.0
             }, 
             {
                 "bad": false, 
@@ -7794,6 +6533,14 @@
                 "nevents": 213269, 
                 "totEvents": 213269, 
                 "weights": 213269.0
+            }, 
+            {
+                "bad": false, 
+                "events": 217877, 
+                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_29.root", 
+                "nevents": 217877, 
+                "totEvents": 217877, 
+                "weights": 217877.0
             }, 
             {
                 "bad": false, 
@@ -8493,6 +7240,14 @@
             }, 
             {
                 "bad": false, 
+                "events": 201153, 
+                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_6.root", 
+                "nevents": 201153, 
+                "totEvents": 201153, 
+                "weights": 201153.0
+            }, 
+            {
+                "bad": false, 
                 "events": 189396, 
                 "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_60.root", 
                 "nevents": 189396, 
@@ -8538,6 +7293,14 @@
                 "nevents": 227757, 
                 "totEvents": 227757, 
                 "weights": 227757.0
+            }, 
+            {
+                "bad": false, 
+                "events": 197423, 
+                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_66.root", 
+                "nevents": 197423, 
+                "totEvents": 197423, 
+                "weights": 197423.0
             }, 
             {
                 "bad": false, 
@@ -8826,254 +7589,6 @@
                 "nevents": 202787, 
                 "totEvents": 202787, 
                 "weights": 202787.0
-            }, 
-            {
-                "bad": false, 
-                "events": 220142, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_141.root", 
-                "nevents": 220142, 
-                "totEvents": 220142, 
-                "weights": 220142.0
-            }, 
-            {
-                "bad": false, 
-                "events": 225592, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_142.root", 
-                "nevents": 225592, 
-                "totEvents": 225592, 
-                "weights": 225592.0
-            }, 
-            {
-                "bad": false, 
-                "events": 209102, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_144.root", 
-                "nevents": 209102, 
-                "totEvents": 209102, 
-                "weights": 209102.0
-            }, 
-            {
-                "bad": false, 
-                "events": 217425, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_148.root", 
-                "nevents": 217425, 
-                "totEvents": 217425, 
-                "weights": 217425.0
-            }, 
-            {
-                "bad": false, 
-                "events": 212106, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_151.root", 
-                "nevents": 212106, 
-                "totEvents": 212106, 
-                "weights": 212106.0
-            }, 
-            {
-                "bad": false, 
-                "events": 196521, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_153.root", 
-                "nevents": 196521, 
-                "totEvents": 196521, 
-                "weights": 196521.0
-            }, 
-            {
-                "bad": false, 
-                "events": 203706, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_155.root", 
-                "nevents": 203706, 
-                "totEvents": 203706, 
-                "weights": 203706.0
-            }, 
-            {
-                "bad": false, 
-                "events": 179974, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_156.root", 
-                "nevents": 179974, 
-                "totEvents": 179974, 
-                "weights": 179974.0
-            }, 
-            {
-                "bad": false, 
-                "events": 222457, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_158.root", 
-                "nevents": 222457, 
-                "totEvents": 222457, 
-                "weights": 222457.0
-            }, 
-            {
-                "bad": false, 
-                "events": 192660, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_160.root", 
-                "nevents": 192660, 
-                "totEvents": 192660, 
-                "weights": 192660.0
-            }, 
-            {
-                "bad": false, 
-                "events": 197672, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_165.root", 
-                "nevents": 197672, 
-                "totEvents": 197672, 
-                "weights": 197672.0
-            }, 
-            {
-                "bad": false, 
-                "events": 173394, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_166.root", 
-                "nevents": 173394, 
-                "totEvents": 173394, 
-                "weights": 173394.0
-            }, 
-            {
-                "bad": false, 
-                "events": 205534, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_17.root", 
-                "nevents": 205534, 
-                "totEvents": 205534, 
-                "weights": 205534.0
-            }, 
-            {
-                "bad": false, 
-                "events": 208694, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_177.root", 
-                "nevents": 208694, 
-                "totEvents": 208694, 
-                "weights": 208694.0
-            }, 
-            {
-                "bad": false, 
-                "events": 249012, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_182.root", 
-                "nevents": 249012, 
-                "totEvents": 249012, 
-                "weights": 249012.0
-            }, 
-            {
-                "bad": false, 
-                "events": 206684, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_186.root", 
-                "nevents": 206684, 
-                "totEvents": 206684, 
-                "weights": 206684.0
-            }, 
-            {
-                "bad": false, 
-                "events": 231974, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_187.root", 
-                "nevents": 231974, 
-                "totEvents": 231974, 
-                "weights": 231974.0
-            }, 
-            {
-                "bad": false, 
-                "events": 235947, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_195.root", 
-                "nevents": 235947, 
-                "totEvents": 235947, 
-                "weights": 235947.0
-            }, 
-            {
-                "bad": false, 
-                "events": 222743, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_197.root", 
-                "nevents": 222743, 
-                "totEvents": 222743, 
-                "weights": 222743.0
-            }, 
-            {
-                "bad": false, 
-                "events": 220603, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_203.root", 
-                "nevents": 220603, 
-                "totEvents": 220603, 
-                "weights": 220603.0
-            }, 
-            {
-                "bad": false, 
-                "events": 218468, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_212.root", 
-                "nevents": 218468, 
-                "totEvents": 218468, 
-                "weights": 218468.0
-            }, 
-            {
-                "bad": false, 
-                "events": 183549, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_220.root", 
-                "nevents": 183549, 
-                "totEvents": 183549, 
-                "weights": 183549.0
-            }, 
-            {
-                "bad": false, 
-                "events": 235923, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_226.root", 
-                "nevents": 235923, 
-                "totEvents": 235923, 
-                "weights": 235923.0
-            }, 
-            {
-                "bad": false, 
-                "events": 213349, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_259.root", 
-                "nevents": 213349, 
-                "totEvents": 213349, 
-                "weights": 213349.0
-            }, 
-            {
-                "bad": false, 
-                "events": 214197, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_263.root", 
-                "nevents": 214197, 
-                "totEvents": 214197, 
-                "weights": 214197.0
-            }, 
-            {
-                "bad": false, 
-                "events": 217877, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_29.root", 
-                "nevents": 217877, 
-                "totEvents": 217877, 
-                "weights": 217877.0
-            }, 
-            {
-                "bad": false, 
-                "events": 201153, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_6.root", 
-                "nevents": 201153, 
-                "totEvents": 201153, 
-                "weights": 201153.0
-            }, 
-            {
-                "bad": false, 
-                "events": 197423, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_66.root", 
-                "nevents": 197423, 
-                "totEvents": 197423, 
-                "weights": 197423.0
-            }, 
-            {
-                "bad": false, 
-                "events": 213625, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_164.root", 
-                "nevents": 213625, 
-                "totEvents": 213625, 
-                "weights": 213625.0
-            }, 
-            {
-                "bad": false, 
-                "events": 186922, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_116.root", 
-                "nevents": 186922, 
-                "totEvents": 186922, 
-                "weights": 186922.0
-            }, 
-            {
-                "bad": false, 
-                "events": 200988, 
-                "name": "/store/group/phys_higgs/cmshgg/ferriff/flashgg/RunIIFall15DR76-1_3_0-25ns_ext1/1_3_1/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15DR76-1_3_0-25ns_ext1-1_3_1-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160210_050208/0000/myMicroAODOutputFile_152.root", 
-                "nevents": 200988, 
-                "totEvents": 200988, 
-                "weights": 200988.0
             }
         ], 
         "vetted": true

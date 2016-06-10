@@ -9,12 +9,12 @@ process.load("FWCore.MessageService.MessageLogger_cfi")
 
 process.source = cms.Source("PoolSource",
                             fileNames=cms.untracked.vstring(
-        "file:/afs/cern.ch/user/f/fabricio/CMSSW_7_6_3_patch2/src/myMicroAODOutputFile_GJet40-80.root"        
+#        "file:/afs/cern.ch/user/f/fabricio/CMSSW_7_6_3_patch2/src/myMicroAODOutputFile_GJet40-80.root"        
 #        "file:/afs/cern.ch/user/f/fabricio/CMSSW_7_6_3_patch2/src/myMicroAODOutputFile_GJet80-Inf_Pt20-40.root" #Only 46000 evnts!
 #        "file:/afs/cern.ch/user/f/fabricio/CMSSW_7_6_3_patch2/src/myMicroAODOutputFile_GJet80-Inf_Pt40-Inf.root"
         )
 )
-process.maxEvents = cms.untracked.PSet( input = cms.untracked.int32(10000) )
+process.maxEvents = cms.untracked.PSet( input = cms.untracked.int32(1000000) )
 process.MessageLogger.cerr.FwkReport.reportEvery = cms.untracked.int32( 1000 )
 
 process.TFileService = cms.Service("TFileService",
@@ -34,7 +34,7 @@ cut=cms.string(
         # E-veto
 #        " && leadingPhoton.passElectronVeto && subLeadingPhoton.passElectronVeto"
         #PS veto
-        " && !(leadingPhoton.hasPixelSeed) && !(subLeadingPhoton.hasPixelSeed)"
+        " && (!leadingPhoton.hasPixelSeed) && (!subLeadingPhoton.hasPixelSeed)"
                  
         " && leadingPhoton.hadTowOverEm<0.008 && subLeadingPhoton.hadTowOverEm<0.008"
         " && (  (     (    abs(leadingPhoton.superCluster.eta)<1.4442\
@@ -185,6 +185,6 @@ process.p1 = cms.Path(
 
 
 from flashgg.MetaData.JobConfig import customize
-customize.setDefault("maxEvents",5000)
+customize.setDefault("maxEvents",-1)
 customize(process)
 

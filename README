@@ -1,1 +1,17 @@
 I changed the name on /afs/cern.ch/user/f/fabricio/CMSSW_7_6_3_patch2/src/flashgg/Taggers/python/flashggPreselectedDiPhotons_cfi.py
+
+To run flashgg jobs!
+
+source /afs/cern.ch/cms/cmsset_default.sh
+
+#source /afs/cern.ch/cms/LCG/LCG-2/UI/cms_ui_env.sh
+
+voms-proxy-init -voms cms --valid 48:00
+
+fggManageSamples.py -C RunIIFall15DR76-1_3_0-25ns_ext1 import
+
+fggManageSamples.py -C RunIIFall15DR76-1_3_0-25ns_ext1 review
+
+fggManageSamples.py -C RunIIFall15DR76-1_3_0-25ns_ext1 check
+
+fggRunJobs.py --load dataset.json -H -D -P -q 8nh -n 150 -d dir -x cmsRun workspaceStd.py maxEvents=-1

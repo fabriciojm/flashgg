@@ -11,7 +11,7 @@ process.source = cms.Source("PoolSource",
                             fileNames=cms.untracked.vstring(
 ##        "file:/afs/cern.ch/user/f/fabricio/CMSSW_7_6_3_patch2/src/myMicroAODOutputFile_GJet40-80.root"        
 #        "file:/afs/cern.ch/user/f/fabricio/CMSSW_7_6_3_patch2/src/myMicroAODOutputFile_GJet80-Inf_Pt20-40.root" #Only 46000 evnts!
-        "file:/afs/cern.ch/user/f/fabricio/CMSSW_7_6_3_patch2/src/myMicroAODOutputFile_GJet80-Inf_Pt40-Inf.root"
+#        "file:/afs/cern.ch/user/f/fabricio/CMSSW_7_6_3_patch2/src/myMicroAODOutputFile_GJet80-Inf_Pt40-Inf.root"
         )
 )
 process.maxEvents = cms.untracked.PSet( input = cms.untracked.int32(1000000) )
@@ -25,10 +25,12 @@ from flashgg.Taggers.flashggPreselectedDiPhotons_cfi import flashggPreselectedDi
 process.kinPreselDiPhotons = flashggPreselectedDiPhotons.clone(
 cut=cms.string(
         " leadingPhoton.pt > 18 && subLeadingPhoton.pt > 18"
-        " && mass > 55" ##### Change mass cut if needed
+        " && mass > 95" ##### Change mass cut if needed 
         " && abs(leadingPhoton.superCluster.eta)<2.5 && abs(subLeadingPhoton.superCluster.eta)<2.5 "
         " && ( abs(leadingPhoton.superCluster.eta)<1.4442 || abs(leadingPhoton.superCluster.eta)>1.566)"
         " && ( abs(subLeadingPhoton.superCluster.eta)<1.4442 || abs(subLeadingPhoton.superCluster.eta)>1.566)"
+        #E-veto
+        " && leadingPhoton.passElectronVeto && subLeadingPhoton.passElectronVeto"
         " && (   leadingPhoton.full5x5_r9>0.8\
               || leadingPhoton.egChargedHadronIso<20\
               || leadingPhoton.egChargedHadronIso/leadingPhoton.pt<0.3 )"
